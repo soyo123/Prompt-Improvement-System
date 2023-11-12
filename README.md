@@ -6,7 +6,7 @@ This system which can improve the input prompt by LLM. And it can be used with v
 
 Like the image in the below, We have used the LLMs to improve the prompt from user. And user can revise the output hints by themselves. And whith these revised hints user can get the enhanced prompt.
 
-![](pic1en.png?msec=1699804486114)
+<img title="" src="pic1en.png" alt="" width="402" data-align="center">
 
 ## Demo UI
 
@@ -14,4 +14,4 @@ Like the image in the below, We have used the LLMs to improve the prompt from us
 
 ## Install
 
-![](install.png?msec=1699805904614)
+<img title="" src="install.png" alt="" width="402" data-align="center">
