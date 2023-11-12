@@ -6,12 +6,12 @@
 
 下の画像のように、LLMを使ってユーザーからのプロンプトを改善している。また、出力されたヒントはユーザ自身で修正することができる。そして、この修正されたヒントにより、ユーザはより改善されたプロンプトを得ることができる。
 
-![](/Users/soyo/Desktop/博士申请2024/ポーランドチーム/pic1jp.png)
+<img title="" src="pic1jp.png" alt="" width="402" data-align="center">
 
 ## Demo UI
 
-![](/Users/soyo/Desktop/博士申请2024/ポーランドチーム/DemoUI.png)
+![](DemoUI.png)
 
 ## Install
 
-<img title="" src="file:///Users/soyo/Desktop/博士申请2024/ポーランドチーム/install.png" alt="" width="402" data-align="center">
+<img title="" src="install.png" alt="" width="402" data-align="center">
