@@ -12,6 +12,3 @@
 
 ![](DemoUI.png)
 
-## Install
-
-<img title="" src="install.png" alt="" width="402" data-align="center">
