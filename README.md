@@ -13,6 +13,4 @@ Like the image in the below, We have used the LLMs to improve the prompt from us
 
 ![](DemoUI.png?msec=1699805381388)
 
-## Install
 
-<img title="" src="install.png" alt="" width="402" data-align="center">
